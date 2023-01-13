@@ -1,0 +1,17 @@
+.feedback{
+    margin: 20px;
+    display: flex;
+    column-gap: 10px;
+}
+
+.btn{
+    background-color: rgb(189, 189, 189);
+    color: rgb(241, 244, 246);
+    font-weight: bolder;
+    padding: 7px;
+    border: none;
+    border-radius: 4px;
+
+
+    
+}
