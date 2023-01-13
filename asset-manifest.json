@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/Saleryv/goit-react-hw-02-feedback/static/css/main.7acaea2f.css",
-    "main.js": "/Saleryv/goit-react-hw-02-feedback/static/js/main.07d3183d.js",
+    "main.css": "/Saleryv/goit-react-hw-02-feedback/static/css/main.51011218.css",
+    "main.js": "/Saleryv/goit-react-hw-02-feedback/static/js/main.8b5ca6fe.js",
     "index.html": "/Saleryv/goit-react-hw-02-feedback/index.html",
-    "main.7acaea2f.css.map": "/Saleryv/goit-react-hw-02-feedback/static/css/main.7acaea2f.css.map",
-    "main.07d3183d.js.map": "/Saleryv/goit-react-hw-02-feedback/static/js/main.07d3183d.js.map"
+    "main.51011218.css.map": "/Saleryv/goit-react-hw-02-feedback/static/css/main.51011218.css.map",
+    "main.8b5ca6fe.js.map": "/Saleryv/goit-react-hw-02-feedback/static/js/main.8b5ca6fe.js.map"
   },
   "entrypoints": [
-    "static/css/main.7acaea2f.css",
-    "static/js/main.07d3183d.js"
+    "static/css/main.51011218.css",
+    "static/js/main.8b5ca6fe.js"
   ]
 }
